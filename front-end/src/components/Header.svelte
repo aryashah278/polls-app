@@ -1,6 +1,7 @@
 <header>
     <h1>
-        <img src="/img/logo.png" alt="Poll Logo"/>
+        <img src="/img/logo.png" alt="Poll Logo"/><br />
+        Poll Station
     </h1>
 </header>
 
